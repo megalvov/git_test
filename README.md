@@ -2,4 +2,4 @@
 
 1) test git commands
 
-test git commands and soft
+test git commands and test soft
