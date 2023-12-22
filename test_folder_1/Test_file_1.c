@@ -1,3 +1,4 @@
 test_file_1
 
-clear
+for 2 commit
+for 3 commit
